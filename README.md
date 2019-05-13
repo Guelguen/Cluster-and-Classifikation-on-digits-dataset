@@ -6,7 +6,8 @@ Für das Klassifikationsmodell wurde die *logistische Regression* gewählt.
 
 Der Datensatz ist hier `digits` aus dem Paket `scikit-learn`.
 
-Für Sie als Leser ist die PDF zu empfehlen. Falls Sie jedoch das Notebook lesen möchten, es sich aber nicht öffnen lässt (Github hat manchmal Render-Probleme), gibt es hier einen Link:  
+**++++ WICHTIG ++++**  
+Falls sich das Notebook zum Lesen nicht öffnen lässt (Github hat manchmal Render-Probleme), gibt es hier einen Link:  
 
 https://nbviewer.jupyter.org/github/Guelguen/Cluster-and-Classifikation-on-digits-dataset/blob/master/code2.ipynb
 
